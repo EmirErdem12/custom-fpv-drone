@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project focuses on the development of a custom-built quadcopter drone from scratch. It integrates structural engineering, aerodynamics, and electronic control systems to achieve a stable and maneuverable flight platform.
 
-## ⚙️ Technical Specifications
+## ⚙️ Technical Specifications 
 *   **CAD Design:** SolidWorks (Optimized for weight-to-strength ratio)
 *   **Manufacturing:** 3D Printed Frame (PETG/TPU)
 *   **Flight Controller:** [ESP32 with Betaflight]
